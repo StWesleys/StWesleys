@@ -13,7 +13,7 @@
       <li>Agile, traditional and hybrid methodologies</li>
       <li>React</li>
     </ul>
-    <p style="font-size: 18px;">I hope you enjoy my GitHub and connect me on LinkedIn <a href="https://www.linkedin.com/in/wesley-alvarenga-60107614b/" style="text-decoration: none; color: black; font-weight: bold;">Wesley Alvarenga</a></p>
+    <p style="font-size: 18px;">I hope you enjoy my GitHub and connect with me on LinkedIn <a href="https://www.linkedin.com/in/wesley-alvarenga-60107614b/" style="text-decoration: none; color: black; font-weight: bold;">Wesley Alvarenga</a></p>
   </div>
 </div>
 
